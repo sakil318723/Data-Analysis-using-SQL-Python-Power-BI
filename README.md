@@ -215,3 +215,15 @@ Based on clear customer behavior patterns
 Aligned with e-commerce best practices
 
 Supported by quantitative analysis of 3,900 transactions
+
+📝 Author
+
+Sakil Sarkar
+
+Aspiring Data Analyst
+Skills: Python, SQL(PostgreSQL), Data Analysis, Data Visualization
+
+Email:sakilsarkar318@gmail.com
+LinkedIn:https://www.linkedin.com/in/sakil-sarkar-061b31390/
+GitHub: https://github.com/sakil318723
+
